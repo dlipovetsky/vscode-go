@@ -143,7 +143,6 @@ troubleshooting](https://github.com/golang/vscode-go/wiki/troubleshooting), and 
 
 If the troubleshooting guides did not resolve the issue, please reach out to us
 by [filing an issue](https://github.com/golang/vscode-go/issues/new/choose),
-[starting a GitHub discussion](https://github.com/golang/vscode-go/discussions),
 or by asking a question on [Stack Overflow].
 
 Also, you can take a look at [go.dev/learn](https://go.dev/learn) and
